@@ -8,7 +8,7 @@
 
 <!-- Dynamic Typing Animation -->
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=🚀+Crafting+Tech+That+Matters;💬+Building+Interactive+Web+Apps;🎯+Lover+of+Clean+UI+%2B+Cool+Logic;🌐+Always+Exploring+the+Next+Big+Thing" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=🚀+Crafting+Tech+That+Matters;💬+Building+Interactive+Web+Apps;🎯+Big+fan+of+Clean+UI+%2B+Cool+Logic;🌐+Always+Exploring+the+Next+Big+Thing" alt="Typing SVG" />
 </p>
 
 </div>
