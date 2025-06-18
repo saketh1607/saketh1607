@@ -59,13 +59,13 @@
 ### 🧩 Top Projects
 | 💡 Project Name | 🔎 Description |
 |----------------|----------------|
+| 🍽️ **Quick Byte** |canteen based preordering system allow students to preorder the food to avoid long queues. |
 | 🧑‍🏫 **MentorConnect** | A platform where mentors and students can **connect, chat**, and **video call** – bridging guidance gaps. |
-| 📄 **ResumeForge** | Upload your info and choose a template – the system will **auto-generate a professional resume**. |
+| 📄 **ResumeGenerator** | Upload your info and choose a template – the system will **auto-generate a professional resume**. |
 | 🚨 **Ragging Report Portal** | Securely report ragging incidents with **image/video/doc proof** – built with **confidentiality and urgency** in mind. |
 | 🧳 **Lost & Found System** | Post, search, and **claim lost items** with real-time admin **chat support**. |
 | 📊 **CodeChefStats** | Enter any CodeChef username to **view detailed stats** including problems solved, contests, and rating trends. |
 | 🗣️ **Feedback Analyzer** | A sentiment-aware system to gather feedback and **suggest areas of improvement** to users or staff. |
-| 🍽️ **Canteen Ordering Site** | UPI-based food ordering site for college canteens, with cart & order ID system. |
 | 🔫 **Nerf Gun Game** | Multiplayer game using phone sensors for real-world combat simulation. |
 
 ---
