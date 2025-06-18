@@ -35,10 +35,7 @@
 
 <!-- 3D GitHub Stats -->
 <img src="https://github-readme-stats.vercel.app/api?username=saketh1607&theme=tokyonight&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&border_radius=15" width="47%">
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketh1607&theme=tokyonight&layout=compact&langs_count=8"
-  width="47%"
->
+<img src="https://github-readme-stats.vercel.app/api?username=saketh1607&theme=tokyonight&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&border_radius=15&include_all_commits=true&count_private=true" width="95%">
 
 
 <br><br>
