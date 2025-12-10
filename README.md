@@ -30,14 +30,19 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats-orcin-ten-77.vercel.app/api?username=saketh1607&theme=tokyonight&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&border_radius=15" width="48%" />
-<img src="https://github-readme-stats-orcin-ten-77.vercel.app/api/top-langs/?username=saketh1607&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=30363D" width="48%" />
+<!-- GitHub Stats -->
+<img src="https://github-readme-stats.vercel.app/api?username=saketh1607&theme=tokyonight&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&border_radius=15" width="48%" />
+
+<!-- Top Languages -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketh1607&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=30363D" width="48%" />
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=saketh1607&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=00D9FF" width="96%">
+<!-- Streak Stats -->
+<img src="https://streak-stats.demolab.com?user=saketh1607&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=00D9FF" width="96%" />
 
 </div>
+
 
 ---
 
