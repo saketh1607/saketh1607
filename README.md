@@ -1,18 +1,14 @@
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=saketh1607&theme=tokyonight&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&border_radius=15" width="48%" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20👋,%20I'm%20Kotagiri%20Saketh&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketh1607&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=30363D" width="48%" />
+<h3 align="center">🚀 Innovator | 💻 Full-Stack Developer | 🎯 Problem Solver</h3>
 
-<br><br>
-
-<!-- Streak Stats (FIXED — not camo) -->
-<img src="https://streak-stats.demolab.com?user=saketh1607&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=00D9FF" width="96%" />
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=🚀+Crafting+Tech+That+Matters;💬+Building+Interactive+Web+Apps;🎯+Big+fan+of+Clean+UI+%2B+Cool+Logic;🌐+Always+Exploring+the+Next+Big+Thing" alt="Typing SVG" />
+</p>
 
 </div>
-
 
 ---
 
@@ -34,19 +30,14 @@
 
 <div align="center">
 
-<!-- GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=saketh1607&theme=tokyonight&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&border_radius=15" width="48%" />
-
-<!-- Top Languages -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketh1607&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=30363D" width="48%" />
+<img src="https://github-readme-stats-orcin-ten-77.vercel.app/api?username=saketh1607&theme=tokyonight&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&border_radius=15" width="48%" />
+<img src="https://github-readme-stats-orcin-ten-77.vercel.app/api/top-langs/?username=saketh1607&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=30363D" width="48%" />
 
 <br><br>
 
-<!-- Streak Stats -->
-<img src="https://streak-stats.demolab.com?user=saketh1607&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=00D9FF" width="96%" />
+<img src="https://streak-stats.demolab.com?user=saketh1607&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=00D9FF" width="96%">
 
 </div>
-
 
 ---
 
