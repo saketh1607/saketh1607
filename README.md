@@ -1,12 +1,9 @@
 <div align="center">
 
-<!-- 3D Animated Header -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hey%20👋,%20I'm%20Kotagiri%20Saketh&fontSize=38&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<!-- Animated Subtitle -->
 <h3 align="center">🚀 Innovator | 💻 Full-Stack Developer | 🎯 Problem Solver</h3>
 
-<!-- Dynamic Typing Animation -->
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=800&center=true&vCenter=true&width=500&lines=🚀+Crafting+Tech+That+Matters;💬+Building+Interactive+Web+Apps;🎯+Big+fan+of+Clean+UI+%2B+Cool+Logic;🌐+Always+Exploring+the+Next+Big+Thing" alt="Typing SVG" />
 </p>
@@ -33,17 +30,12 @@
 
 <div align="center">
 
-<!-- 3D GitHub Stats -->
-<img src="https://github-readme-stats.vercel.app/api?username=saketh1607&theme=tokyonight&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&border_radius=15" width="47%">
-<br><br>
-<!-- 3D Language Stats -->
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saketh1607&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=30363D" width="47%">
+<img src="https://github-readme-stats-orcin-ten-77.vercel.app/api?username=saketh1607&theme=tokyonight&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D&border_radius=15" width="48%" />
+<img src="https://github-readme-stats-orcin-ten-77.vercel.app/api/top-langs/?username=saketh1607&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9&border_color=30363D" width="48%" />
 
 <br><br>
 
-<!-- Enhanced Activity Graph -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saketh1607&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&border_radius=15" width="95%">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=saketh1607&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&border_radius=15" width="96%">
 
 </div>
 
@@ -59,7 +51,7 @@
 ### 🧩 Top Projects
 | 💡 Project Name | 🔎 Description |
 |----------------|----------------|
-| 🍽️ **Quick Byte** |canteen based preordering system allow students to preorder the food to avoid long queues. |
+| 🍽️ **Quick Byte** |Canteen based preordering system allowing students to preorder food to avoid long queues. |
 | 🧑‍🏫 **MentorConnect** | A platform where mentors and students can **connect, chat**, and **video call** – bridging guidance gaps. |
 | 📄 **ResumeGenerator** | Upload your info and choose a template – the system will **auto-generate a professional resume**. |
 | 🚨 **Ragging Report Portal** | Securely report ragging incidents with **image/video/doc proof** – built with **confidentiality and urgency** in mind. |
@@ -85,10 +77,8 @@
 
 <div align="center">
 
-<!-- Profile Views Counter -->
 <img src="https://komarev.com/ghpvc/?username=saketh1607&style=for-the-badge&color=00D9FF&labelColor=0D1117" />
 
-<!-- Animated Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=twinkling"/>
 
 </div>
