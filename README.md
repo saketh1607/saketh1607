@@ -35,7 +35,7 @@
 
 <br><br>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=saketh1607&theme=tokyo-night&bg_color=0D1117&color=00D9FF&line=58A6FF&point=FF6B6B&area=true&hide_border=true&border_radius=15" width="96%">
+<img src="https://streak-stats.demolab.com?user=saketh1607&theme=tokyonight&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakNum=C9D1D9&sideNums=C9D1D9&currStreakLabel=00D9FF&sideLabels=00D9FF" width="96%">
 
 </div>
 
